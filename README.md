@@ -21,7 +21,7 @@ I enjoy building practical projects involving machine learning models, data anal
 ## 🛠️ Tech Stack
 
 ### Programming
-Python · R · Java
+Python · R · Java · HTML
 
 ### Machine Learning & Data Science
 Scikit-learn · YOLO · PCA · Classification · Regression · Active Learning
